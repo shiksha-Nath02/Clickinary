@@ -53,12 +53,4 @@ npm run build
 
 
 
- ## Snapshots
- 1. Add clickinary in your chrome extensions: <br/><br/>
-    ![Screenshot](Snapshots/extensionPage.png)
- 3. Go to any website on chrome and select a word: <br/><br/>
-    ![Screenshot](Snapshots/selectedText.jpg)
- 4. Right click and select "Get Meaning": <br/><br/>
-    ![Screenshot](Snapshots/contextMenu.jpg)
- 5. Find the meaning replacing the original word in purple color text: <br/><br/>
-    ![Screenshot](Snapshots/replaced.png)
+ 
