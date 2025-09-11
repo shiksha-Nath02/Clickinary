@@ -1,15 +1,15 @@
 {
   "manifest_version": 3,
-  "name": "Meaningo",
+  "name": "Clickinary",
   "description": "A word meaning chrome extension",
   "version":"0.0.1",
-  "icons": {
+    "icons": {
     "192": "./logo192.png",
     "512": "./logo512.png"
   },
   "action": {
     "default_popup": "index.html",
-    "default_title": "Meaningo!",
+    "default_title": "Clickinary",
     "default_icon": "./logo192.png"
   },
   "permissions": [
