@@ -1,0 +1,39 @@
+{
+  "nodes": [
+    {
+      "id": "index.js",
+      "label": "index.js",
+      "category": "Entry Point",
+      "description": "Source file",
+      "stack": []
+    },
+    {
+      "id": "App.js",
+      "label": "App.js",
+      "category": "Component",
+      "description": "Source file",
+      "stack": []
+    },
+    {
+      "id": "reportWebVitals.js",
+      "label": "reportWebVitals.js",
+      "category": "Module",
+      "description": "Source file",
+      "stack": []
+    }
+  ],
+  "edges": [
+    {
+      "id": "index.js-App.js",
+      "from": "index.js",
+      "to": "App.js",
+      "label": "file-import"
+    },
+    {
+      "id": "index.js-reportWebVitals.js",
+      "from": "index.js",
+      "to": "reportWebVitals.js",
+      "label": "file-import"
+    }
+  ]
+}
